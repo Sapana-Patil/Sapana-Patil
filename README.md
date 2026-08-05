@@ -11,14 +11,15 @@
   </a>
 </p>
 
-### 👋 Hi
-💻 Computer Science student  
-🚀 Exploring technology without boxing myself into labels  
-🧠 Interested in building practical solutions with real-world impact  
+###  Hi
+Computer Science student  
+Exploring technology without boxing myself into labels  
+Interested in building practical solutions with real-world impact  
 
 ---
 
-## 🌱 About Me
+##  About Me
+
 - I'm currently exploring different areas of tech — from DSA to machine learning and full-stack development
 - I enjoy working on ideas that solve real problems
 - Previously part of my college's entrepreneurship cell, where I worked on turning ideas into actual execution
@@ -26,11 +27,15 @@
 ---
 
 ## ⚒️ Tech Stack
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
